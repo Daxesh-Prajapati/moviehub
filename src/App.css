@@ -1,0 +1,24 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  max-width: 400px;
+  margin: 20px auto;
+}
